@@ -17,6 +17,9 @@ import javax.persistence.Table;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.jpa.convert.threeten.Jsr310JpaConverters;
 
+import com.felipebs.financialControl.model.enums.StatusLancamento;
+import com.felipebs.financialControl.model.enums.TipoLancamento;
+
 import lombok.Builder;
 import lombok.Data;
 

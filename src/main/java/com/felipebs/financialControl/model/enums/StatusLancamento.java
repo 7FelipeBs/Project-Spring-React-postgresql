@@ -1,4 +1,4 @@
-package com.felipebs.financialControl.model.entity;
+package com.felipebs.financialControl.model.enums;
 
 public enum StatusLancamento {
 	PENDENTE,
